@@ -8,7 +8,6 @@ This project contains two parts:
 The goal of this project is to automate critical features of the Sauce Demo Web Application using Playwright and TypeScript:
 1. Login functionality: User can successfully log in and be redirected to the products page.
 2. Product Checkout: Verifying that users can add products to their cart and proceed to checkout.
-   
 API tests for the Petstore API:
 1. POST: create new pet to the pet store.
 2. GET: Retrieves pet information.
@@ -21,7 +20,7 @@ This project uses the Page Object Model (POM) design pattern for UI testing, and
 4. Playwrite.config.js - Configures settings for compilation and test execution.
 5. package.json - Lists npm packages and project dependencies.
 6. package-lock.json - Automatically generated to lock dependencies versions.
-7. Nodejs - Cypress built on Node.js and comes packaged as an npm module.
+7. Nodejs - built on Node.js and comes packaged as an npm module.
 8. tsconfig.json - Configuration file which specifies the compiler options and settings for how TypeScript code should be compiled into JavaScript. 
 
 # Installation
